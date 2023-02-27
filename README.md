@@ -2,7 +2,9 @@
 
 Um card que muda os modos de claro para o escuro
 
-feito com: ➝CSS ➝HTML ➝Javascript
+feito com: 
+
+➝CSS ➝HTML ➝Javascript
 
 Imagens📷:
 Modo escuro👇
